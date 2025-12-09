@@ -1,4 +1,4 @@
- int sum1 (int a, int b);
+   int sum1 (int a, int b);
 
 int main () {
 
