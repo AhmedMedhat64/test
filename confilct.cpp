@@ -1,10 +1,10 @@
-int sum (int a, int b);
+int sum1 (int a, int b);
 
 int main () {
 
   return 0;
 }
 
-int sum (int a, int b) {
+int sum1 (int a, int b) {
   return a + b;
 }
