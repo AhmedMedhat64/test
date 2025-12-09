@@ -9,6 +9,5 @@ int main () {
 }
 
 int sum1 (int a, int b) { 
-   int sum = a + b;
    return sum;
 }
